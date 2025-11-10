@@ -1,0 +1,84 @@
+C:\pro2\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride_D_Bus.Form1.resources
+C:\pro2\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.csproj.GenerateResource.cache
+C:\pro2\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro2\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.AssemblyInfoInputs.cache
+C:\pro2\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.AssemblyInfo.cs
+C:\pro2\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.csproj.CoreCompileInputs.cache
+C:\pro2\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.exe
+C:\pro2\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.deps.json
+C:\pro2\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.runtimeconfig.json
+C:\pro2\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.dll
+C:\pro2\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.pdb
+C:\pro2\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.dll
+C:\pro2\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\refint\Ride D Bus.dll
+C:\pro2\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.pdb
+C:\pro2\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.genruntimeconfig.cache
+C:\pro2\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\ref\Ride D Bus.dll
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.exe
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.deps.json
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.runtimeconfig.json
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.dll
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.pdb
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride_D_Bus.Form1.resources
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.csproj.GenerateResource.cache
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.AssemblyInfoInputs.cache
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.AssemblyInfo.cs
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.csproj.CoreCompileInputs.cache
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.dll
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\refint\Ride D Bus.dll
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.pdb
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.genruntimeconfig.cache
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\ref\Ride D Bus.dll
+C:\Users\anejs\Downloads\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride_D_Bus.Properties.Resources.resources
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.exe
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.deps.json
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.runtimeconfig.json
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.dll
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.pdb
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride_D_Bus.Form1.resources
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride_D_Bus.Properties.Resources.resources
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.csproj.GenerateResource.cache
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.AssemblyInfo.cs
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.dll
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\refint\Ride D Bus.dll
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.pdb
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.genruntimeconfig.cache
+C:\Users\student\Downloads\Ride-D-Bus-main\Ride-D-Bus-main\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\ref\Ride D Bus.dll
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.exe
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.deps.json
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.runtimeconfig.json
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.dll
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.pdb
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride_D_Bus.Form1.resources
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride_D_Bus.Properties.Resources.resources
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.csproj.GenerateResource.cache
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.AssemblyInfoInputs.cache
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.AssemblyInfo.cs
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.csproj.CoreCompileInputs.cache
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.dll
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\refint\Ride D Bus.dll
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.pdb
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.genruntimeconfig.cache
+C:\Users\anejs\Downloads\Ride-D.-Bus-main\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\ref\Ride D Bus.dll
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.exe
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.deps.json
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.runtimeconfig.json
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.dll
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\bin\Debug\net8.0-windows\Ride D Bus.pdb
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride_D_Bus.Form1.resources
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride_D_Bus.Properties.Resources.resources
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.csproj.GenerateResource.cache
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.AssemblyInfoInputs.cache
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.AssemblyInfo.cs
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.csproj.CoreCompileInputs.cache
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.dll
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\refint\Ride D Bus.dll
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.pdb
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\Ride D Bus.genruntimeconfig.cache
+C:\Users\anejs\Downloads\orig\Ride-D.-Bus-main\Ride D Bus\Ride D Bus\Ride D Bus\obj\Debug\net8.0-windows\ref\Ride D Bus.dll
