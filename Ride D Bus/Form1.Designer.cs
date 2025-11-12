@@ -55,6 +55,7 @@
             karta2 = new PictureBox();
             karta3 = new PictureBox();
             karta4 = new PictureBox();
+            BtnNavodila = new Button();
             ((System.ComponentModel.ISupportInitialize)karta1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)karta2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)karta3).BeginInit();
@@ -343,6 +344,16 @@
             karta4.TabIndex = 26;
             karta4.TabStop = false;
             // 
+            // BtnNavodila
+            // 
+            BtnNavodila.Location = new Point(666, 586);
+            BtnNavodila.Name = "BtnNavodila";
+            BtnNavodila.Size = new Size(75, 23);
+            BtnNavodila.TabIndex = 27;
+            BtnNavodila.Text = "Navodila";
+            BtnNavodila.UseVisualStyleBackColor = true;
+            BtnNavodila.Click += BtnNavodila_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -350,6 +361,7 @@
             BackColor = Color.SaddleBrown;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(979, 652);
+            Controls.Add(BtnNavodila);
             Controls.Add(karta4);
             Controls.Add(karta3);
             Controls.Add(karta2);
@@ -417,5 +429,6 @@
         private PictureBox karta2;
         private PictureBox karta3;
         private PictureBox karta4;
+        private Button BtnNavodila;
     }
 }

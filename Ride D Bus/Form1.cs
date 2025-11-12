@@ -192,8 +192,8 @@ namespace Ride_D_Bus
                 {
                     Bonus = 20;
                     int dobitek = Bet * Bonus;
-                    Denar += dobitek; 
-                    txtDenar.Text = $"{Denar} €"; 
+                    Denar += dobitek;
+                    txtDenar.Text = $"{Denar} €";
 
                     textBox2.Text += $"Èestitke! Prejeli ste {dobitek} €{Environment.NewLine}";
 
@@ -536,5 +536,10 @@ namespace Ride_D_Bus
             }
         }
 
+        private void BtnNavodila_Click(object sender, EventArgs e)
+        {
+            NavodilaIgre navodila = new NavodilaIgre();
+            navodila.PrikažiNavodila();
+        }
     }
 }
